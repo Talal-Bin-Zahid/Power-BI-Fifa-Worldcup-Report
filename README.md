@@ -1,6 +1,6 @@
 # Power-BI-Fifa-Worldcup-Report
 <img width="999" height="558" alt="FIFA World Cup Report" src="https://github.com/user-attachments/assets/bd132aff-9d49-4044-8b67-28b33ffd8870" />
-## 📌 Project Title & Description
+ 📌 Project Title & Description
 
 
 **FIFA World Cup Report | Historical Tournament Analysis (1930–2018)**
